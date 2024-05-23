@@ -2,7 +2,7 @@
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2014-04-09 at 21:08 (CDT)-->
 <!--Last edited by Ukelele version 2.2.8 on 2014-05-17 at 17:28 (CDT)-->
-<keyboard group="29" id="30766" name="Hun 02" maxout="1">
+<keyboard group="29" id="30766" name="Hun w02" maxout="1">
     <layouts>
         <layout first="0" last="0" modifiers="30" mapSet="138"/>
     </layouts>
@@ -85,7 +85,7 @@
             <key code="39" output="á"/>
             <key code="40" output="k"/>
             <key code="41" output="é"/>
-            <key code="42" output="ű"/>
+            <key code="42" output="&#x000D;"/>
             <key code="43" output=","/>
             <key code="44" output="-"/>
             <key code="45" action="19"/>
